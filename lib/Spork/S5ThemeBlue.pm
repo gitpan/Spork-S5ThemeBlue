@@ -2,7 +2,7 @@ package Spork::S5ThemeBlue;
 use Spork::S5Theme -Base;
 use strict;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 __DATA__
 
